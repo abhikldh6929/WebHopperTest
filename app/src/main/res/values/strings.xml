@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Web Hopper</string>
+    <string name="speak">Speak</string>
+    <string name="name">Name</string>
+    <string name="area">Area</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="file_name">File Name</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_name">Please enter name</string>
+    <string name="enter_area">Please enter area</string>
+    <string name="enter_phone">Please enter valid phone no</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="enter_state">Please enter state</string>
+    <string name="enter_city">Please enter city</string>
+    <string name="select_image">Please select image</string>
+</resources>
